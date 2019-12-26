@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'uyfont';
+    src: local('UKIJ Esliye');
+    unicode-range: 	U+0600-06FF;
+  }
+  
+*{
+    font-family: uyfont,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
